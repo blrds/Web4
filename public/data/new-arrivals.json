@@ -1,50 +1,47 @@
 {
   "books": [
     {
-      "title": "The Memory Police",
-      "author": "Yoko Ogawa",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
+      "title": "Гарри Поттер и узник Азкабана",
+      "author": "Джоан Роулинг",
+      "image": "https://s1.livelib.ru/boocover/1003317448/o/2954/Dzhoan_Rouling__Garri_Potter_i_uznik_Azkabana.jpeg",
       "price": 14.72,
       "currency": "$",
-      "category": "Science Fiction > Dystopian",
+      "category": "Фентези | Магия",
       "isbn13": 9781101911815,
-      "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
+      "description": "Специальное издание для учеников и выпускников «Гриффиндора» к 20-летию первой публикации книги «Гарри Поттер и узник Азкабана»."
     },
 
     {
-      "title": "Rhinoceros and Other Plays",
-      "author": "Eugène Ionesco",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
+      "title": "Зеленая Миля",
+      "author": "Стивен кинг",
+      "image": "https://s1.livelib.ru/boocover/1000966838/o/7df1/Stiven_King__Zeljonaya_milya.jpeg",
       "price": 16.00,
       "currency": "$",
-      "category": "Plays > Theatre",
-      "publisher": "Grove Press",
+      "category": "Мистика | Фантастика",
       "isbn13": 9780802130983,
-      "description": "A rhinoceros suddenly appears in a small town, tramping through its peaceful streets."
+      "description": "Стивен Кинг приглашает читателей в жуткий мир тюремного блока смертников, откуда уходят, чтобы не вернуться, приоткрывает дверь последнего пристанища тех, кто преступил не только человеческий, но и Божий закон. По эту сторону электрического стула нет более смертоносного местечка!"
     },
 
     {
-      "title": "Memento Mori",
-      "author": "Muriel Spark",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348186701l/120158.jpg",
+      "title": "Унесенные Ветром",
+      "author": "Маргарет Митчелл",
+      "image": "https://s1.livelib.ru/boocover/1003988047/o/2c44/Margaret_Mitchell__Unesennye_vetrom.jpeg",
       "price": 15.90,
       "currency": "$",
-      "category": "Novels",
+      "category": "Реализм",
       "isbn13": 9780811223041,
-      "publisher": "New Directions Publishing Corporation",
-      "description": "In late 1950s London, something uncanny besets a group of elderly friends."
+      "description": "\"Унесенные ветром\" – история о молодой южанке, дочери состоятельного владельца плантаций в Джорджии, чья беззаботная юность прекращается с началом Гражданской войны. В один миг девушке пришлось повзрослеть: мать умерла, отец болен, а родное поместье разграбили янки."
     },
 
     {
-      "title": "Atlas of AI",
-      "author": "Kate Crawford",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
+      "title": "Шерлок Холмс. Все повести и рассказы о сыщике № 1 (сборник)",
+      "author": "Артур Конан Дойл",
+      "image": "https://s1.livelib.ru/boocover/1003648088/o/c980/Artur_Konan_Dojl__Sherlok_Holms._Vse_povesti_i_rasskazy_o_syschike_No_1_sbornik.jpeg",
       "price": 25.76,
       "currency": "$",
-      "category": "Nonfiction > Technology",
-      "publisher": "Yale University Press",
+      "category": "Детектив",
       "isbn13": 9780300209570,
-      "description": "The hidden costs of artificial intelligence--from natural resources and labor to privacy, equality, and freedom"
+      "description": "Шерлок Холмс – литературный персонаж, созданный талан-том английского писателя Артура Конан Дойла (1859–1930). Его произведения, посвященные приключениям знаменитого лондонского частного сыщика, по праву считаются классикой детективного жанра. Общества поклонников дедуктивного метода Холмса распространились по всему миру."
     }
   ]
 }
